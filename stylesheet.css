@@ -1,0 +1,30 @@
+body {
+    margin-bottom:5%;
+    margin-left:5%;
+    margin-right:20%;
+    margin-top:5%;
+    background-color:salmon;
+}
+.maintable {
+width:100%;
+background-color:salmon;
+}
+.maintabletd {
+padding-top:80px;
+width:150px;
+height:100%;
+border:double;
+
+}
+.maintablefoot {
+border: 1px dashed #fff ;
+border-radius:7px;
+border-color:white;
+text-align:center;
+vertical-align:top;
+}
+.sait {
+width:980px;
+background-color:tan;
+border:double;
+}
